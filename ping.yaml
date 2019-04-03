@@ -5,3 +5,5 @@
   tasks:
     - name: Ping all systems
       ping: 
+      hello
+      
